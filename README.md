@@ -1,6 +1,11 @@
 # Building  a Fully Responsive Modern UI/UX Website | React.js, Next.js 13, Tailwind CSS
 [![Travel Website](https://i.ibb.co/wrGZhPP/YT-Thumbnails-5.png)](https://youtu.be/cuzw4vL1z5E)
 
+##Simple demo
+[Screencast from 24-10-2023 11:03:17.webm](https://github.com/frank-shema/hlink-travel-ui/assets/128337368/ef40ec87-e078-4e96-be37-42bd694d92e8)
+
+
+
 ## Introduction
 If you’ve ever struggled with creating a sleek UI that also performs flawlessly, you're not alone.
 
